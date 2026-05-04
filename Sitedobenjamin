@@ -4,8 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
-    <p>Meu primeiro site</p>
+    
+<header>
+    <h1>Primeira Aula</h1>
+    <p>Introdução ao HTML</p>
+</header>
+
+<section>
+    <h2>O que é HTML?</h2>
+    <p>HTML (HyperText Markup Language) é a linguagem usada para criar páginas na web</p>
+</section>
 </body>
 </html>
